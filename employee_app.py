@@ -6,8 +6,8 @@ import joblib
 
 # Load Models
 
-salary_model = joblib.load("salary_model.pkl")
-promotion_model = joblib.load("promotion_model.pkl")
+salary_model = joblib.load("salary_model1.pkl")
+promotion_model = joblib.load("promotion_model1.pkl")
 
 # Title
 
